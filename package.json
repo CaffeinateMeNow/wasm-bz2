@@ -1,5 +1,5 @@
 {
-  "name": "wasm-bz2",
+  "name": "@commaai/wasm-bz2",
   "version": "0.0.4",
   "description": "bzip2 methods compiled to webassembly",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "tap-spec": "tap-spec",
     "semistandard": "semistandard"
   },
-  "repository": "git@github.com:chrisinajar/wasm-bz2.git",
+  "repository": "git@github.com:commaai/wasm-bz2.git",
   "author": "Chris Vickery <chrisinajar@gmail.com>",
   "license": "MIT",
   "devDependencies": {
